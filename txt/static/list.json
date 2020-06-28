@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "img": "static/a.jpg",
+        "name": "头戴耳机",
+        "num": 1,
+        "pay": 1872,
+        "type": "tuijian",
+        "price": 558,
+        "checked": false
+      },
+      {
+        "id": 2,
+        "img": "static/b.jpg",
+        "name": "高钙奶粉",
+        "type": "muying",
+        "num": 1,
+        "pay": 2374,
+        "price": 60,
+        "checked": false
+      },
+      {
+        "id": 3,
+        "img": "static/c.jpg",
+        "name": "多用锅",
+        "num": 1,
+        "type": "tuijian",
+        "pay": 351,
+        "price": 216,
+        "checked": false
+      },
+      {
+        "id": 4,
+        "img": "static/d.jpg",
+        "name": "潮流表",
+        "num": 1,
+        "type": "shumajiaju",
+        "pay": 8191,
+        "price": 585,
+        "checked": false
+    }
+ ]
